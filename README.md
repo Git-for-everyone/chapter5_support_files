@@ -1,4 +1,4 @@
-chapter6_support_files
+chapter5_support_files
 ======================
 
 Git: Version Control for Everyone - Supporting files for Chapter 6 (free download)
