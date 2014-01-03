@@ -1,10 +1,6 @@
-chapter5_support_files
-======================
+Git: Version control for everyone -  Chapter5 Support files
+===========================================================
 
-Git: Version Control for Everyone - Supporting files for Chapter 6 (free download)
+1. Use the "Download Zip" option in this page to download all the supporting files as a single zip package
 
-To download as Zip file: 
-
-  Use the "Download Zip" option to get all files in single download
-
-  Extract the zip's and have fun with the tasks :)
+2. Extract the zip's and have fun with the tasks mentioned in the book :)
